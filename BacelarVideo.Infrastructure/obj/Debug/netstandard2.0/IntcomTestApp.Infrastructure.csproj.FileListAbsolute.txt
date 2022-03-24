@@ -1,0 +1,15 @@
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\bin\Debug\netstandard2.0\IntcomTestApp.Infrastructure.deps.json
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\bin\Debug\netstandard2.0\IntcomTestApp.Infrastructure.dll
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\bin\Debug\netstandard2.0\IntcomTestApp.Infrastructure.pdb
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\bin\Debug\netstandard2.0\IntcomTestApp.Application.dll
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\bin\Debug\netstandard2.0\IntcomTestApp.Core.dll
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\bin\Debug\netstandard2.0\IntcomTestApp.Application.pdb
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\bin\Debug\netstandard2.0\IntcomTestApp.Core.pdb
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.AssemblyInfo.cs
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.csproj.CopyComplete
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.dll
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Infrastructure\obj\Debug\netstandard2.0\IntcomTestApp.Infrastructure.pdb

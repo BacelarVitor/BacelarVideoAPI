@@ -1,0 +1,13 @@
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\bin\Debug\netstandard2.0\IntcomTestApp.Application.deps.json
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\bin\Debug\netstandard2.0\IntcomTestApp.Application.dll
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\bin\Debug\netstandard2.0\IntcomTestApp.Application.pdb
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\bin\Debug\netstandard2.0\IntcomTestApp.Core.dll
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\bin\Debug\netstandard2.0\IntcomTestApp.Core.pdb
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.csproj.AssemblyReference.cache
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.AssemblyInfoInputs.cache
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.AssemblyInfo.cs
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.csproj.CopyComplete
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.dll
+C:\Users\vitor\projects\intcom teste\IntcomTestApi\IntcomTestApp.Application\obj\Debug\netstandard2.0\IntcomTestApp.Application.pdb
