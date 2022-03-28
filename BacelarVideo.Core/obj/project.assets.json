@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Core\\BacelarVideo.Core.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Core\\BacelarVideo.Core.csproj",
       "projectName": "BacelarVideo.Core",
-      "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Core\\BacelarVideo.Core.csproj",
+      "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Core\\BacelarVideo.Core.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Core\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

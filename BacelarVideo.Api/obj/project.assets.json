@@ -6179,18 +6179,18 @@
     },
     "BacelarVideo.Application/1.0.0": {
       "type": "project",
-      "path": "../IntcomTestApp.Application/BacelarVideo.Application.csproj",
-      "msbuildProject": "../IntcomTestApp.Application/BacelarVideo.Application.csproj"
+      "path": "../BacelarVideo.Application/BacelarVideo.Application.csproj",
+      "msbuildProject": "../BacelarVideo.Application/BacelarVideo.Application.csproj"
     },
     "BacelarVideo.Core/1.0.0": {
       "type": "project",
-      "path": "../IntcomTestApp.Core/BacelarVideo.Core.csproj",
-      "msbuildProject": "../IntcomTestApp.Core/BacelarVideo.Core.csproj"
+      "path": "../BacelarVideo.Core/BacelarVideo.Core.csproj",
+      "msbuildProject": "../BacelarVideo.Core/BacelarVideo.Core.csproj"
     },
     "BacelarVideo.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../IntcomTestApp.Infrastructure/BacelarVideo.Infrastructure.csproj",
-      "msbuildProject": "../IntcomTestApp.Infrastructure/BacelarVideo.Infrastructure.csproj"
+      "path": "../BacelarVideo.Infrastructure/BacelarVideo.Infrastructure.csproj",
+      "msbuildProject": "../BacelarVideo.Infrastructure/BacelarVideo.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6208,11 +6208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Api\\BacelarVideo.Api.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Api\\BacelarVideo.Api.csproj",
       "projectName": "BacelarVideo.Api",
-      "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Api\\BacelarVideo.Api.csproj",
+      "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Api\\BacelarVideo.Api.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Api\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6229,11 +6229,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Application\\BacelarVideo.Application.csproj": {
-              "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Application\\BacelarVideo.Application.csproj"
+            "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Application\\BacelarVideo.Application.csproj": {
+              "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Application\\BacelarVideo.Application.csproj"
             },
-            "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Infrastructure\\BacelarVideo.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Infrastructure\\BacelarVideo.Infrastructure.csproj"
+            "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Infrastructure\\BacelarVideo.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Infrastructure\\BacelarVideo.Infrastructure.csproj"
             }
           }
         }

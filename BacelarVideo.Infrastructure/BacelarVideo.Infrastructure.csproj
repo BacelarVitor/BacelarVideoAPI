@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IntcomTestApp.Application\BacelarVideo.Application.csproj" />
+    <ProjectReference Include="..\BacelarVideo.Application\BacelarVideo.Application.csproj" />
   </ItemGroup>
 
 </Project>

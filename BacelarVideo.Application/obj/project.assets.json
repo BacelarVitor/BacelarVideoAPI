@@ -1536,8 +1536,8 @@
     },
     "BacelarVideo.Core/1.0.0": {
       "type": "project",
-      "path": "../IntcomTestApp.Core/BacelarVideo.Core.csproj",
-      "msbuildProject": "../IntcomTestApp.Core/BacelarVideo.Core.csproj"
+      "path": "../BacelarVideo.Core/BacelarVideo.Core.csproj",
+      "msbuildProject": "../BacelarVideo.Core/BacelarVideo.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1558,11 +1558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Application\\BacelarVideo.Application.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Application\\BacelarVideo.Application.csproj",
       "projectName": "BacelarVideo.Application",
-      "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Application\\BacelarVideo.Application.csproj",
+      "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Application\\BacelarVideo.Application.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Application\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1579,8 +1579,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Core\\BacelarVideo.Core.csproj": {
-              "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\IntcomTestApi\\IntcomTestApp.Core\\BacelarVideo.Core.csproj"
+            "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Core\\BacelarVideo.Core.csproj": {
+              "projectPath": "C:\\Users\\vitor\\projects\\intcom teste\\BacelarVideoApi\\BacelarVideo.Core\\BacelarVideo.Core.csproj"
             }
           }
         }

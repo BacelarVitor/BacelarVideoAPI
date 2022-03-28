@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IntcomTestApp.Application\BacelarVideo.Application.csproj" />
-    <ProjectReference Include="..\IntcomTestApp.Infrastructure\BacelarVideo.Infrastructure.csproj" />
+    <ProjectReference Include="..\BacelarVideo.Application\BacelarVideo.Application.csproj" />
+    <ProjectReference Include="..\BacelarVideo.Infrastructure\BacelarVideo.Infrastructure.csproj" />
   </ItemGroup>
 
 

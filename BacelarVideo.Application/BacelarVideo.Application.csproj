@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IntcomTestApp.Core\BacelarVideo.Core.csproj" />
+    <ProjectReference Include="..\BacelarVideo.Core\BacelarVideo.Core.csproj" />
   </ItemGroup>
 
 </Project>
