@@ -14,7 +14,7 @@ A Api deve ser executada em mode debug na porta 44398 para que o front consiga a
 
 ### Aplicação Angular
 
-O projeto angular está localizado no repositório [BacelarVideoWeb](https://github.com/BacelarVitor/BacelarVideoWeb)
+O projeto angular está localizado no repositório [BacelarVideoApp](https://github.com/BacelarVitor/BacelarVideoApp)
 
 Antes de executar a aplicação é necessário rodar o comando 'npm install' para que as dependências sejam baixadas. Após finalizado é só rodar ng serve --open que o projeto será exibido no navegador.
 
